@@ -1,0 +1,10 @@
+react-native link @react-native-community/async-storage
+
+# Para trazer uma lista de emuladores disponíveis
+emulator -list-avds
+
+# Selecionar um emulador para usa-lo. Ex: Nexus_5X_API_29_x86
+emulator -no-snapshot -avd Nexus_5X_API_29_x86
+
+
+react-native run-android
