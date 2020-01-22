@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "@react-native-community/async-storage": "1.4.2",
-        "axios": "0.18.0",
+        "axios": "0.18.1",
         "jetifier": "1.6.3",
         "moment": "2.24.0",
         "native-base": "2.12.1",
